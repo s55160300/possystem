@@ -17,7 +17,7 @@
           <div class="row">
               <!-- Custom tabs (Charts with tabs)-->
               <div class="col-lg-4">
-                test
+                <?php echo base_url(); ?>
               </div>
 
               <div class="col-lg-4">
